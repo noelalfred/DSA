@@ -5,7 +5,7 @@
 |:---------|:---------------|:------------------------------------------------|
 |1.|Write a C program to check if a given number is Fibonacci number.|[Fibonacci.c.txt](https://github.com/noelalfred/DSA/files/10039572/Fibonacci.c.txt)|
 |2.|Write a C program to generate Pascal Triangle using array.|[Pascal_triangle.c.txt](https://github.com/noelalfred/DSA/files/10039569/Pascal_triangle.c.txt)|
-|3.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/program3.c|
+|3.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.|[Asc_rollno.c.txt](https://github.com/noelalfred/DSA/files/10039575/Asc_rollno.c.txt)|
 |4.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in descending order of roll list.|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/program4.c|
 |5.|Write a C program to find largest element in an array |https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/sem3cp5%20(1).c|
 |6.|Write a menu driven program to perform the following operations in an ARRAY 1. INSERT2. DELETE 3. TRAVERSE 4. SEARCH |https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/dsa%20program1.c|
