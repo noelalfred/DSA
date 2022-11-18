@@ -1,0 +1,40 @@
+//Author: Noel Alfred   Branch: IT  Roll no.: 04
+//Write a 2D/1D array to sort students in descending order of marks
+#include <stdio.h>
+
+int main()
+{
+    int student[10][2], i, j; //declaring student array to store roll no and marks
+    
+    for ( i = 0; i < 10; i++)
+    {   //Taking data of student array
+        printf("\nEnter marks of roll no %d : ", i+1);   
+        scanf("%d", &student[i][1]); 
+        student[i][0]=i+1;
+    }
+    //USing for loop to sort students in a descending order according to their marks
+    for ( i = 0; i < 9; i++)
+    {
+        for ( j = i+1; j < 10; j++)
+        {
+            if (student[i][1]<student[j][1]) //compares marks of students
+            {   //swapping the marks
+                student[i][1] = student[i][1] + student[j][1];
+                student[j][1] = student[i][1] - student[j][1];
+                student[i][1] = student[i][1] - student[j][1];
+                //swapping roll numbers
+                student[i][0] = student[i][0] + student[j][0];
+                student[j][0] = student[i][0] - student[j][0];
+                student[i][0] = student[i][0] - student[j][0];
+            }   
+        }    
+    }
+ 
+    //printing sorted list
+    printf("\nMarks of students in decreasing order : \n");
+    for ( i = 0; i < 10 ; i++)
+    {
+        printf("Roll no. %d\t", student[i][0]);
+        printf("scored %d\n", student[i][1]);
+    }
+}
