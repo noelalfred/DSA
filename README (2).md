@@ -3,8 +3,10 @@
 
 |Program_Id| Program details|Your File nameHyperlink to the .c file on github|
 |:---------|:---------------|:------------------------------------------------|
-|1.|Write a C program to check if a given number is Fibonacci number.|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/fibbonaci.c|
-|2.|Write a C program to generate Pascal Triangle using array.|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/program2.c|
+|1.|Write a C program to check if a given number is Fibonacci number.|[Fibonacci.c.txt](https://github.com/noelalfred/DSA/files/10039537/Fibonacci.c.txt)
+|
+|2.|Write a C program to generate Pascal Triangle using array.|[Pascal_triangle.c.txt](https://github.com/noelalfred/DSA/files/10039539/Pascal_triangle.c.txt)
+|
 |3.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/program3.c|
 |4.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in descending order of roll list.|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/program4.c|
 |5.|Write a C program to find largest element in an array |https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/sem3cp5%20(1).c|
