@@ -5,7 +5,7 @@
 |:---------|:---------------|:------------------------------------------------|
 |1.|Write a C program to check if a given number is Fibonacci number.|(https://github.com/noelalfred/DSA/files/10039264/Fibonacci.c.txt)|
 
-|2.|Write a C program to generate Pascal Triangle using array.|[Pascal_triangle.c.txt](https://github.com/noelalfred/DSA/files/10039271/Pascal_triangle.c.txt)|
+|2.|Write a C program to generate Pascal Triangle using array.|(https://github.com/noelalfred/DSA/files/10039271/Pascal_triangle.c.txt)|
 
 |3.|Write a C program to roll_no, name , percentange of 5 students using array of structure and display the records in ascending order of roll list.|[Asc_rollno.c.txt](https://github.com/noelalfred/DSA/files/10039272/Asc_rollno.c.txt)|
 
